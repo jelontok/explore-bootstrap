@@ -2,7 +2,7 @@
 
 A Reponsive Bootstrap Template with Draggable Photosphere Background
 
-![Ziggy Bootstrap - A Multi-Purpose Reponsive Bootstrap Template](https://cdn.rawgit.com/jelontok/explore-bootstrap/master/assets/img/explore-bs.jpg "Explore Bootstrap - Reponsive Bootstrap Template with Draggable Photosphere Background" =100%x)
+![Ziggy Bootstrap - A Multi-Purpose Reponsive Bootstrap Template](https://cdn.rawgit.com/jelontok/explore-bootstrap/master/assets/img/explore-bs.png "Explore Bootstrap - Reponsive Bootstrap Template with Draggable Photosphere Background" =100%x)
 
 [Demo](https://cdn.rawgit.com/jelontok/ziggy-bootstrap/master/index.html) 
 
