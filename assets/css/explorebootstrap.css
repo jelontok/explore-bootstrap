@@ -89,7 +89,7 @@ h1,h2,h3 {
 
 #splash-section-text {
     position: absolute;
-    z-index: 999999;
+    z-index: 99;
     width: 100%;
     text-align: center;
     top: 0;
