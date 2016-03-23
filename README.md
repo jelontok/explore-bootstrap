@@ -1,8 +1,8 @@
 # Explore Bootstrap
 
-A Reponsive Bootstrap Template with Draggable Photosphere Background
+A Responsive Bootstrap Template with Draggable Photosphere Background
 
-![Explore Bootstrap - A Multi-Purpose Reponsive Bootstrap Template](https://cdn.rawgit.com/jelontok/explore-bootstrap/master/assets/img/explore-bs.png "Explore Bootstrap - Reponsive Bootstrap Template with Draggable Photosphere Background")
+![Explore Bootstrap - A Multi-Purpose Reponsive Bootstrap Template](https://cdn.rawgit.com/jelontok/explore-bootstrap/master/assets/img/explore-bs.png "Explore Bootstrap - Responsive Bootstrap Template with Draggable Photosphere Background")
 
 [Demo](https://cdn.rawgit.com/jelontok/explore-bootstrap/master/index.html) 
 
